@@ -23,7 +23,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Short blog posts about code.
 baseurl: "/src" # the subpath of your site, e.g. /blog
-url: "https://drilon241.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drilon_mecuku
 github_username:  drilon241
 
