@@ -4,5 +4,5 @@ title: Python
 nav_order: 2
 parent: Code
 has_children: true
-permalink: /docs/python
+permalink: /docs/code/python
 ---
