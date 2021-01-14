@@ -28,6 +28,7 @@ twitter_username: drilon_mecuku
 github_username:  drilon241
 
 # Build settings
+<<<<<<< HEAD
 theme: "just-the-docs"
 # Enable or disable the site search
 # Supports true (default) or false
@@ -38,6 +39,10 @@ search_enabled: true
 search.heading_level: 2
 
 #remote_theme: pmarsceill/just-the-docs
+=======
+#theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+>>>>>>> cde997b0a889acabef1f45dc63e07b8a12c3e0d2
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
